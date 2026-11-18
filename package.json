@@ -1,0 +1,27 @@
+{
+  "name": "eskimo-oyunlari",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "sync": "vite build && cap sync android"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/cli": "^8.6.2",
+    "@capacitor/core": "^8.6.2",
+    "@google/model-viewer": "^4.4.0",
+    "pdfjs-dist": "^6.5.438",
+    "vite": "^8.3.8"
+  },
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@capacitor/assets": "^4.0.0"
+  }
+}

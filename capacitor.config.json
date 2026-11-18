@@ -1,0 +1,6 @@
+{
+  "appId": "tr.inuit.eskimooyunlari",
+  "appName": "Eskimo Oyunları",
+  "webDir": "dist",
+  "android": { "allowMixedContent": false }
+}
